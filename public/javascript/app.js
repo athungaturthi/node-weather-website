@@ -1,4 +1,3 @@
-console.log('Client side javascript')
 
 
 // fetch('http://localhost:3000/weather?address=Baltimore').then((res) => {
